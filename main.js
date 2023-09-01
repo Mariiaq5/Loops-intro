@@ -11,4 +11,5 @@ for (var i = 0; i < myInterest.length; i++){
     console.log(`One of my interest is ${myInterest[2]}`);
     console.log(`One of my interest is ${myInterest[3]}`);
     console.log(`One of my interest is ${myInterest[4]}`)
-}
+} 
+
